@@ -47,11 +47,11 @@ In the terminal/console type `python entertainment_center.py`. It will then crea
 
 By default, a website will be created using the `fresher_tomatoes.py` file. You can also use the `fresh_tomatoes.py` file instead by commenting this line
 	
-	`fresher_tomatoes.open_movies_page(movies)`
+`fresher_tomatoes.open_movies_page(movies)`
 
 An uncommenting this line
 
-	`#fresh_tomatoes.open_movies_page(movies)`
+`#fresh_tomatoes.open_movies_page(movies)`
 
 from the `entertainment_center.py` file.
  
